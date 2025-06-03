@@ -1,0 +1,54 @@
+project:
+  type: website
+
+website:
+  title: Ancient Oceans
+  site-url: https://origins.palaeobiology.org
+  description: "Scroll through Earth's Oceans"
+  image: "assets/earth.png"
+  favicon: "assets/favicon.png"
+  search: false
+  open-graph:
+    image: "assets/earth.png"
+    image-width: 500
+    image-height: 500
+    locale: en-GB
+  twitter-card:
+    title: Ancient Oceans
+    description: "Scroll through Earth's Geological History"
+    image: "assets/earth.png"
+    image-width: 500
+    image-height: 500
+    card-style: summary_large_image
+    creator: "@LewisAlanJones"
+    site: "@LewisAlanJones"
+  navbar:
+    title: Ancient Oceans
+    pinned: true
+    collapse: true
+    foreground: "white"
+    background: "#201c2f"
+    right:
+      - text: "Contribute"
+        href: "https://forms.gle/42fqXep3b8pf8KMk8"
+        target: "_blank"
+      - text: "Inspiration"
+        href: "https://neal.fun/deep-sea/"
+        target: "_blank"
+  page-footer: 
+    foreground: "white"
+    background: "#201c2f"
+    left: "Copyright 2025, Lewis A. Jones" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+
+format:
+  html:
+    css: style.css
+    toc: false
+    smooth-scroll: false
+    link-external-newwindow: true
+

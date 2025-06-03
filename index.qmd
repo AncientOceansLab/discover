@@ -1,0 +1,731 @@
+---
+pagetitle: "Origins"
+open-graph: true
+twitter-card: true
+toc: false
+page-layout: custom
+backgroundcolor: "#100751"
+---   
+
+::: {.title-page}
+
+<div class="stars">
+  <div class="star" style="--i: 0;"></div>
+  <div class="star" style="--i: 1;"></div>
+  <div class="star" style="--i: 2;"></div>
+  <div class="star" style="--i: 3;"></div>
+  <div class="star" style="--i: 4;"></div>
+  <div class="star" style="--i: 5;"></div>
+  <div class="star" style="--i: 6;"></div>
+  <div class="star" style="--i: 7;"></div>
+  <div class="star" style="--i: 8;"></div>
+  <div class="star" style="--i: 9;"></div>
+  <div class="star" style="--i: 10;"></div>
+  <div class="star" style="--i: 11;"></div>
+  <div class="star" style="--i: 12;"></div>
+  <div class="star" style="--i: 13;"></div>
+  <div class="star" style="--i: 14;"></div>
+  <div class="star" style="--i: 15;"></div>
+  <div class="star" style="--i: 16;"></div>
+  <div class="star" style="--i: 17;"></div>
+  <div class="star" style="--i: 18;"></div>
+  <div class="star" style="--i: 19;"></div>
+</div>
+
+<div class="boat">
+  <div class="hull"></div>
+  <div class="cabin"></div>
+  <div class="mast"></div>
+  <div class="light"></div>
+</div>
+
+<div class="moon"></div>
+
+<br>
+<h2>Ancient Oceans</h2>
+<h3>Explore Earth's Ancient Oceans</h3>
+<br>
+<h4>Made by Lewis A. Jones</h4>  
+
+<div class="ocean"></div>
+
+:::
+
+
+::: {.Quaternary .h1}  
+
+# Quaternary  
+
+:::  
+
+
+::: {.Piacenzian .h1}  
+
+# Piacenzian  
+
+:::  
+
+
+::: {.Zanclean .h1}  
+
+# Zanclean  
+
+:::  
+
+
+::: {.Messinian .h1}  
+
+# Messinian  
+
+:::  
+
+
+::: {.Tortonian .h1}  
+
+# Tortonian  
+
+:::  
+
+
+::: {.Serravallian .h1}  
+
+# Serravallian  
+
+:::  
+
+
+::: {.Langhian .h1}  
+
+# Langhian  
+
+:::  
+
+
+::: {.Burdigalian .h1}  
+
+# Burdigalian  
+
+:::  
+
+
+::: {.Aquitanian .h1}  
+
+# Aquitanian  
+
+:::  
+
+
+::: {.Chattian .h1}  
+
+# Chattian  
+
+:::  
+
+
+::: {.Rupelian .h1}  
+
+# Rupelian  
+
+:::  
+
+
+::: {.Priabonian .h1}  
+
+# Priabonian  
+
+:::  
+
+
+::: {.Bartonian .h1}  
+
+# Bartonian  
+
+:::  
+
+
+::: {.Lutetian .h1}  
+
+# Lutetian  
+
+:::  
+
+
+::: {.Ypresian .h1}  
+
+# Ypresian  
+
+:::  
+
+
+::: {.Thanetian .h1}  
+
+# Thanetian  
+
+:::  
+
+
+::: {.Selandian .h1}  
+
+# Selandian  
+
+:::  
+
+
+::: {.Danian .h1}  
+
+# Danian  
+
+:::  
+
+
+::: {.Maastrichtian .h1}  
+
+# Maastrichtian  
+
+:::  
+
+
+::: {.Campanian .h1}  
+
+# Campanian  
+
+:::  
+
+
+::: {.Santonian .h1}  
+
+# Santonian  
+
+:::  
+
+
+::: {.Coniacian .h1}  
+
+# Coniacian  
+
+:::  
+
+
+::: {.Turonian .h1}  
+
+# Turonian  
+
+:::  
+
+
+::: {.Cenomanian .h1}  
+
+# Cenomanian  
+
+:::  
+
+
+::: {.Albian .h1}  
+
+# Albian  
+
+:::  
+
+
+::: {.Aptian .h1}  
+
+# Aptian  
+
+:::  
+
+
+::: {.Barremian .h1}  
+
+# Barremian  
+
+:::  
+
+
+::: {.Hauterivian .h1}  
+
+# Hauterivian  
+
+:::  
+
+
+::: {.Valanginian .h1}  
+
+# Valanginian  
+
+:::  
+
+
+::: {.Berriasian .h1}  
+
+# Berriasian  
+
+:::  
+
+
+::: {.Tithonian .h1}  
+
+# Tithonian  
+
+:::  
+
+
+::: {.Kimmeridgian .h1}  
+
+# Kimmeridgian  
+
+:::  
+
+
+::: {.Oxfordian .h1}  
+
+# Oxfordian  
+
+:::  
+
+
+::: {.Callovian .h1}  
+
+# Callovian  
+
+:::  
+
+
+::: {.Bathonian .h1}  
+
+# Bathonian  
+
+:::  
+
+
+::: {.Bajocian .h1}  
+
+# Bajocian  
+
+:::  
+
+
+::: {.Aalenian .h1}  
+
+# Aalenian  
+
+:::  
+
+
+::: {.Toarcian .h1}  
+
+# Toarcian  
+
+:::  
+
+
+::: {.Pliensbachian .h1}  
+
+# Pliensbachian  
+
+:::  
+
+
+::: {.Sinemurian .h1}  
+
+# Sinemurian  
+
+:::  
+
+
+::: {.Hettangian .h1}  
+
+# Hettangian  
+
+:::  
+
+
+::: {.Rhaetian .h1}  
+
+# Rhaetian  
+
+:::  
+
+
+::: {.Norian .h1}  
+
+# Norian  
+
+:::  
+
+
+::: {.Carnian .h1}  
+
+# Carnian  
+
+:::  
+
+
+::: {.Ladinian .h1}  
+
+# Ladinian  
+
+:::  
+
+
+::: {.Anisian .h1}  
+
+# Anisian  
+
+:::  
+
+
+::: {.Olenekian .h1}  
+
+# Olenekian  
+
+:::  
+
+
+::: {.Induan .h1}  
+
+# Induan  
+
+:::  
+
+
+::: {.Changhsingian .h1}  
+
+# Changhsingian  
+
+:::  
+
+
+::: {.Wuchiapingian .h1}  
+
+# Wuchiapingian  
+
+:::  
+
+
+::: {.Capitanian .h1}  
+
+# Capitanian  
+
+:::  
+
+
+::: {.Wordian .h1}  
+
+# Wordian  
+
+:::  
+
+
+::: {.Roadian .h1}  
+
+# Roadian  
+
+:::  
+
+
+::: {.Kungurian .h1}  
+
+# Kungurian  
+
+:::  
+
+
+::: {.Artinskian .h1}  
+
+# Artinskian  
+
+:::  
+
+
+::: {.Sakmarian .h1}  
+
+# Sakmarian  
+
+:::  
+
+
+::: {.Asselian .h1}  
+
+# Asselian  
+
+:::  
+
+
+::: {.Gzhelian .h1}  
+
+# Gzhelian  
+
+:::  
+
+
+::: {.Kasimovian .h1}  
+
+# Kasimovian  
+
+:::  
+
+
+::: {.Moscovian .h1}  
+
+# Moscovian  
+
+:::  
+
+
+::: {.Bashkirian .h1}  
+
+# Bashkirian  
+
+:::  
+
+
+::: {.Serpukhovian .h1}  
+
+# Serpukhovian  
+
+:::  
+
+
+::: {.Visean .h1}  
+
+# Visean  
+
+:::  
+
+
+::: {.Tournaisian .h1}  
+
+# Tournaisian  
+
+:::  
+
+
+::: {.Famennian .h1}  
+
+# Famennian  
+
+:::  
+
+
+::: {.Frasnian .h1}  
+
+# Frasnian  
+
+:::  
+
+
+::: {.Givetian .h1}  
+
+# Givetian  
+
+:::  
+
+
+::: {.Eifelian .h1}  
+
+# Eifelian  
+
+:::  
+
+
+::: {.Emsian .h1}  
+
+# Emsian  
+
+:::  
+
+
+::: {.Pragian .h1}  
+
+# Pragian  
+
+:::  
+
+
+::: {.Lochkovian .h1}  
+
+# Lochkovian  
+
+:::  
+
+
+::: {.Pridoli .h1}  
+
+# Pridoli  
+
+:::  
+
+
+::: {.Ludfordian .h1}  
+
+# Ludfordian  
+
+:::  
+
+
+::: {.Gorstian .h1}  
+
+# Gorstian  
+
+:::  
+
+
+::: {.Homerian .h1}  
+
+# Homerian  
+
+:::  
+
+
+::: {.Sheinwoodian .h1}  
+
+# Sheinwoodian  
+
+:::  
+
+
+::: {.Telychian .h1}  
+
+# Telychian  
+
+:::  
+
+
+::: {.Aeronian .h1}  
+
+# Aeronian  
+
+:::  
+
+
+::: {.Rhuddanian .h1}  
+
+# Rhuddanian  
+
+:::  
+
+
+::: {.Hirnantian .h1}  
+
+# Hirnantian  
+
+:::  
+
+
+::: {.Katian .h1}  
+
+# Katian  
+
+:::  
+
+
+::: {.Sandbian .h1}  
+
+# Sandbian  
+
+:::  
+
+
+::: {.Darriwilian .h1}  
+
+# Darriwilian  
+
+:::  
+
+
+::: {.Dapingian .h1}  
+
+# Dapingian  
+
+:::  
+
+
+::: {.Floian .h1}  
+
+# Floian  
+
+:::  
+
+
+::: {.Tremadocian .h1}  
+
+# Tremadocian  
+
+:::  
+
+
+::: {.Stage-10 .h1}  
+
+# Stage-10  
+
+:::  
+
+
+::: {.Jiangshanian .h1}  
+
+# Jiangshanian  
+
+:::  
+
+
+::: {.Paibian .h1}  
+
+# Paibian  
+
+:::  
+
+
+::: {.Guzhangian .h1}  
+
+# Guzhangian  
+
+:::  
+
+
+::: {.Drumian .h1}  
+
+# Drumian  
+
+:::  
+
+
+::: {.Wuliuan .h1}  
+
+# Wuliuan  
+
+:::  
+
+
+::: {.Stage-4 .h1}  
+
+# Stage-4  
+
+:::  
+
+
+::: {.Stage-3 .h1}  
+
+# Stage-3  
+
+:::  
+
+
+::: {.Stage-2 .h1}  
+
+# Stage-2  
+
+:::  
+
+
+::: {.Fortunian .h1}  
+
+# Fortunian  
+
+::: 
+
+<div id="scrollPosition">Scroll Position: 0</div>
+<script src="script.js"></script>
+
+<div id="quarto-content" 
+  class="quarto-container page-columns page-rows-contents page-layout-article page-navbar" 
+  style="min-height: calc(10vh + 269400px);"</div>
