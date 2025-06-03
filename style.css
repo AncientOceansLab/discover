@@ -44,7 +44,7 @@ h2 {
 
 h3 {
   display: block; /* Display as block element */
-  font-size: calc(100% + 2vw);
+  font-size: calc(100% + 1vw);
   padding: 0px; /* Add padding for better readability */
   text-align: center; /* Center text horizontally */
   margin: 0 auto; /* Center horizontally */
@@ -55,7 +55,7 @@ h3 {
 
 h4 {
   display: block; /* Display as block element */
-  font-size: calc(100% + 1vw);
+  font-size: calc(100% + 0.5vw);
   padding: 0px; /* Add padding for better readability */
   text-align: center; /* Center text horizontally */
   margin: 0 auto; /* Center horizontally */

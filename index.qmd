@@ -43,7 +43,7 @@ backgroundcolor: "#100751"
 
 <br>
 <h2>Ancient Oceans</h2>
-<h3>Explore Earth's Ancient Oceans</h3>
+<h3>Scroll through time and explore Earth's Past Oceans</h3>
 <br>
 <h4>Made by Lewis A. Jones</h4>  
 
@@ -726,6 +726,4 @@ backgroundcolor: "#100751"
 <div id="scrollPosition">Scroll Position: 0</div>
 <script src="script.js"></script>
 
-<div id="quarto-content" 
-  class="quarto-container page-columns page-rows-contents page-layout-article page-navbar" 
-  style="min-height: calc(10vh + 269400px);"</div>
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar" style="min-height: calc(10vh + 269400px);">
