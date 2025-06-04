@@ -188,7 +188,7 @@ html {
 /*-- OCEAN --*/
 .ocean {
   position: absolute;
-  top: calc(65vh + 0px); 
+  top: calc(55vh + 0px); 
   height: calc(45vh + 269402px); 
   width: 100%;
   opacity: 0.4;
@@ -196,10 +196,55 @@ html {
   overflow: hidden;
 }
 
+/*-- SEAFLOOR --*/
+.seafloor {
+  position: absolute;
+  top: 70vh; 
+  width: 100%;
+  height: 20vh;
+  opacity: 0.7;
+  background: linear-gradient(to top left, #a67c52 10%, #5c4033);
+  clip-path: polygon(0% 100%, 0% 50%, 100% 0%, 100% 100%);
+  z-index: 1;
+}
+
+.seafloor2 {
+  position: absolute;
+  top: 74vh; 
+  width: 100%;
+  height: 20vh;
+  opacity: 0.5;
+  background: linear-gradient(to top left, #a67c52 50%, #5c4033);
+  clip-path: polygon(0% 100%, 0% 40%, 100% 0%, 100% 100%);
+  z-index: 1;
+}
+
+.seafloor3 {
+  position: absolute;
+  top: 78vh; 
+  width: 100%;
+  height: 18vh;
+  opacity: 1;
+  background: linear-gradient(to top left, #a67c52 40%, #5c4033);
+  clip-path: polygon(0% 100%, 0% 30%, 100% 0%, 100% 100%);
+  z-index: 1;
+}
+
+.seafloor4 {
+  position: absolute;
+  top: 82vh; 
+  width: 100%;
+  height: 14vh;
+  opacity: 1;
+  background: linear-gradient(to top left, #a67c52 40%, #5c4033);
+  clip-path: polygon(0% 100%, 0% 30%, 100% 0%, 100% 100%);
+  z-index: 1;
+}
+
 /* Boat container */
 .boat {
   position: absolute;
-  bottom: 33%;
+  bottom: 43%;
   left: 70%;
   width: 80px;
   height: 60px;
@@ -250,6 +295,16 @@ html {
   box-shadow: 0 0 10px yellow;
 }
 
+/* Drill */
+.drill {
+  position: absolute;
+  top: 0px;
+  left: 38px;
+  width: 4px;
+  height: 300px;
+  background: black;
+}
+
 /* Floating animation */
 @keyframes float {
   0%, 100% {
@@ -262,7 +317,7 @@ html {
 
 #scrollPosition {
   position: fixed;
-  bottom: 5%;
+  bottom: 0%;
   left: 50%;
   text-align: center;
   transform: translateX(-50%);
@@ -293,8 +348,22 @@ html {
   background: linear-gradient(to bottom, #201c2f 0%, #100751 100%);
 }
 
-/* stages */
+/* scroll container */
 
+.scroll-box { 
+  position: absolute; 
+  width: 10%; 
+  top: 90vh; 
+  height: 200px; 
+  color: black;  
+  background: grey;  
+  opacity: 1;  
+  border: 2px solid black;  
+  text-align: center; 
+  font-size: 1vmin;  
+}
+
+/* stages */
 
 .Quaternary { 
   position: absolute; 

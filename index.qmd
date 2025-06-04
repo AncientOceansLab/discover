@@ -36,6 +36,7 @@ backgroundcolor: "#100751"
   <div class="hull"></div>
   <div class="cabin"></div>
   <div class="mast"></div>
+  <div class="drill"></div>
   <div class="light"></div>
 </div>
 
@@ -43,13 +44,26 @@ backgroundcolor: "#100751"
 
 <br>
 <h2>Ancient Oceans</h2>
-<h3>Scroll through time and explore Earth's Past Oceans</h3>
+<h3>Scroll through geological time and explore Earth's past oceans</h3>
 <br>
 <h4>Made by Lewis A. Jones</h4>  
 
 <div class="ocean"></div>
 
+<div class="seafloor"></div>
+<div class="seafloor2"></div>
+<div class="seafloor3"></div>
+<div class="seafloor4"></div>
+
+<div id="scrollPosition">Scroll Position: 0</div>
+
 :::
+
+::: {.scroll-box .h1}  
+
+# Start &darr;
+
+:::  
 
 
 ::: {.Quaternary .h1}  
@@ -723,7 +737,6 @@ backgroundcolor: "#100751"
 
 ::: 
 
-<div id="scrollPosition">Scroll Position: 0</div>
 <script src="script.js"></script>
 
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar" style="min-height: calc(10vh + 269400px);">
