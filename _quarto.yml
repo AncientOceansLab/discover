@@ -4,8 +4,8 @@ project:
 
 website:
   title: Ancient Oceans
-  site-url: https://explore.ancientoceans.org
-  description: "Scroll through Earth's Oceans"
+  site-url: https://discover.ancientoceans.org
+  description: "Discover Earth's Ancient Oceans"
   search: false
   navbar:
     title: Ancient Oceans

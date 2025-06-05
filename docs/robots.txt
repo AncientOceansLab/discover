@@ -1,1 +1,1 @@
-Sitemap: https://explore.ancientoceans.org/sitemap.xml
+Sitemap: https://discover.ancientoceans.org/sitemap.xml
