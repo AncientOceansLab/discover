@@ -2,6 +2,7 @@
 
 .Quaternary { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 0px); 
   height: 1292px; 
@@ -9,14 +10,14 @@
   background: #F9F97F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Piacenzian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 1290px); 
   height: 512px; 
@@ -24,14 +25,14 @@
   background: #FFFFBF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Zanclean { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 1800px); 
   height: 869px; 
@@ -39,14 +40,14 @@
   background: #FFFFB3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Messinian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 2666px); 
   height: 959px; 
@@ -54,14 +55,14 @@
   background: #FFFF73;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Tortonian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 3623px); 
   height: 2194px; 
@@ -69,14 +70,14 @@
   background: #FFFF66;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Serravallian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 5815px); 
   height: 1097px; 
@@ -84,14 +85,14 @@
   background: #FFFF59;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Langhian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 6910px); 
   height: 1082px; 
@@ -99,14 +100,14 @@
   background: #FFFF4D;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Burdigalian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 7990px); 
   height: 2232px; 
@@ -114,14 +115,14 @@
   background: #FFFF41;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Aquitanian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 10220px); 
   height: 1297px; 
@@ -129,14 +130,14 @@
   background: #FFFF33;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Chattian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 11515px); 
   height: 2397px; 
@@ -144,14 +145,14 @@
   background: #FEE6AA;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Rupelian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 13910px); 
   height: 3042px; 
@@ -159,14 +160,14 @@
   background: #FED99A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Priabonian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 16950px); 
   height: 1907px; 
@@ -174,14 +175,14 @@
   background: #FDCDA1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Bartonian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 18855px); 
   height: 1747px; 
@@ -189,14 +190,14 @@
   background: #FDC091;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Lutetian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 20600px); 
   height: 3302px; 
@@ -204,14 +205,14 @@
   background: #FCB482;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Ypresian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 23900px); 
   height: 4102px; 
@@ -219,14 +220,14 @@
   background: #FCA773;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Thanetian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 28000px); 
   height: 1602px; 
@@ -234,14 +235,14 @@
   background: #FDBF6F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Selandian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 29600px); 
   height: 1202px; 
@@ -249,14 +250,14 @@
   background: #FEBF65;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Danian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 30800px); 
   height: 2202px; 
@@ -264,14 +265,14 @@
   background: #FDB462;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Maastrichtian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 33000px); 
   height: 3052px; 
@@ -279,14 +280,14 @@
   background: #F2FA8C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Campanian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 36050px); 
   height: 5752px; 
@@ -294,14 +295,14 @@
   background: #E6F47F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Santonian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 41800px); 
   height: 1352px; 
@@ -309,14 +310,14 @@
   background: #D9EF74;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Coniacian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 43150px); 
   height: 1752px; 
@@ -324,14 +325,14 @@
   background: #CCE968;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Turonian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 44900px); 
   height: 2052px; 
@@ -339,14 +340,14 @@
   background: #BFE35D;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Cenomanian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 46950px); 
   height: 3302px; 
@@ -354,14 +355,14 @@
   background: #B3DE53;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Albian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 50250px); 
   height: 6252px; 
@@ -369,14 +370,14 @@
   background: #CCEA97;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Aptian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 56500px); 
   height: 4202px; 
@@ -384,14 +385,14 @@
   background: #BFE48A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Barremian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 60700px); 
   height: 2187px; 
@@ -399,14 +400,14 @@
   background: #B3DF7F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Hauterivian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 62885px); 
   height: 3417px; 
@@ -414,14 +415,14 @@
   background: #A6D975;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Valanginian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 66300px); 
   height: 3602px; 
@@ -429,14 +430,14 @@
   background: #99D36A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Berriasian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 69900px); 
   height: 2602px; 
@@ -444,14 +445,14 @@
   background: #8CCD60;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Tithonian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 72500px); 
   height: 2102px; 
@@ -459,14 +460,14 @@
   background: #D9F1F7;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Kimmeridgian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 74600px); 
   height: 2802px; 
@@ -474,14 +475,14 @@
   background: #CCECF4;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Oxfordian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 77400px); 
   height: 3352px; 
@@ -489,14 +490,14 @@
   background: #BFE7F1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Callovian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 80750px); 
   height: 1902px; 
@@ -504,14 +505,14 @@
   background: #BFE7E5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Bathonian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 82650px); 
   height: 1452px; 
@@ -519,14 +520,14 @@
   background: #B3E2E3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Bajocian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 84100px); 
   height: 1352px; 
@@ -534,14 +535,14 @@
   background: #A6DDE0;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Aalenian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 85450px); 
   height: 1902px; 
@@ -549,14 +550,14 @@
   background: #9AD9DD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Toarcian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 87350px); 
   height: 4752px; 
@@ -564,14 +565,14 @@
   background: #99CEE3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Pliensbachian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 92100px); 
   height: 4352px; 
@@ -579,14 +580,14 @@
   background: #80C5DD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Sinemurian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 96450px); 
   height: 3302px; 
@@ -594,14 +595,14 @@
   background: #67BCD8;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Hettangian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 99750px); 
   height: 952px; 
@@ -609,14 +610,14 @@
   background: #4EB3D3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Rhaetian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 100700px); 
   height: 3552px; 
@@ -624,14 +625,14 @@
   background: #E3B9DB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Norian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 104250px); 
   height: 9252px; 
@@ -639,14 +640,14 @@
   background: #D6AAD3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Carnian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 113500px); 
   height: 5002px; 
@@ -654,14 +655,14 @@
   background: #C99BCB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Ladinian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 118500px); 
   height: 2502px; 
@@ -669,14 +670,14 @@
   background: #C983BF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Anisian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 121000px); 
   height: 2602px; 
@@ -684,14 +685,14 @@
   background: #BC75B7;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Olenekian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 123600px); 
   height: 2002px; 
@@ -699,14 +700,14 @@
   background: #B051A5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Induan { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 125600px); 
   height: 353px; 
@@ -714,14 +715,14 @@
   background: #A4469F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Changhsingian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 125951px); 
   height: 1121px; 
@@ -729,14 +730,14 @@
   background: #FCC0B2;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Wuchiapingian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 127070px); 
   height: 2687px; 
@@ -744,14 +745,14 @@
   background: #FCB4A2;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Capitanian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 129755px); 
   height: 2387px; 
@@ -759,14 +760,14 @@
   background: #FB9A85;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Wordian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 132140px); 
   height: 1312px; 
@@ -774,14 +775,14 @@
   background: #FB8D76;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Roadian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 133450px); 
   height: 3057px; 
@@ -789,14 +790,14 @@
   background: #FB8069;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Kungurian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 136505px); 
   height: 5247px; 
@@ -804,14 +805,14 @@
   background: #E38776;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Artinskian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 141750px); 
   height: 3302px; 
@@ -819,14 +820,14 @@
   background: #E37B68;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Sakmarian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 145050px); 
   height: 1712px; 
@@ -834,14 +835,14 @@
   background: #E36F5C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Asselian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 146760px); 
   height: 2692px; 
@@ -849,14 +850,14 @@
   background: #E36350;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Gzhelian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 149450px); 
   height: 2402px; 
@@ -864,14 +865,14 @@
   background: #CCD4C7;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Kasimovian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 151850px); 
   height: 1652px; 
@@ -879,14 +880,14 @@
   background: #BFD0C5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Moscovian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 153500px); 
   height: 4102px; 
@@ -894,14 +895,14 @@
   background: #C7CBB9;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Bashkirian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 157600px); 
   height: 4002px; 
@@ -909,14 +910,14 @@
   background: #99C2B5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Serpukhovian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 161600px); 
   height: 3852px; 
@@ -924,14 +925,14 @@
   background: #BFC26B;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Visean { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 165450px); 
   height: 7902px; 
@@ -939,14 +940,14 @@
   background: #A6B96C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Tournaisian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 173350px); 
   height: 6102px; 
@@ -954,14 +955,14 @@
   background: #8CB06C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Famennian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 179450px); 
   height: 6652px; 
@@ -969,14 +970,14 @@
   background: #F2EDC5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Frasnian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 186100px); 
   height: 5252px; 
@@ -984,14 +985,14 @@
   background: #F2EDAD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Givetian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 191350px); 
   height: 2502px; 
@@ -999,14 +1000,14 @@
   background: #F1E185;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Eifelian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 193850px); 
   height: 2802px; 
@@ -1014,14 +1015,14 @@
   background: #F1D576;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Emsian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 196650px); 
   height: 7152px; 
@@ -1029,14 +1030,14 @@
   background: #E5D075;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Pragian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 203800px); 
   height: 1602px; 
@@ -1044,14 +1045,14 @@
   background: #E5C468;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Lochkovian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 205400px); 
   height: 4202px; 
@@ -1059,14 +1060,14 @@
   background: #E5B75A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Pridoli { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 209600px); 
   height: 1902px; 
@@ -1074,14 +1075,14 @@
   background: #E6F5E1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Ludfordian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 211500px); 
   height: 1302px; 
@@ -1089,14 +1090,14 @@
   background: #D9F0DF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Gorstian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 212800px); 
   height: 902px; 
@@ -1104,14 +1105,14 @@
   background: #CCECDD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Homerian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 213700px); 
   height: 1552px; 
@@ -1119,14 +1120,14 @@
   background: #CCEBD1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Sheinwoodian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 215250px); 
   height: 1452px; 
@@ -1134,14 +1135,14 @@
   background: #BFE6C3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Telychian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 216700px); 
   height: 2552px; 
@@ -1149,14 +1150,14 @@
   background: #BFE6CF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Aeronian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 219250px); 
   height: 1152px; 
@@ -1164,14 +1165,14 @@
   background: #B3E1C2;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Rhuddanian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 220400px); 
   height: 1502px; 
@@ -1179,14 +1180,14 @@
   background: #A6DCB5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Hirnantian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 221900px); 
   height: 702px; 
@@ -1194,14 +1195,14 @@
   background: #A6DBAB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Katian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 222600px); 
   height: 3902px; 
@@ -1209,14 +1210,14 @@
   background: #99D69F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Sandbian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 226500px); 
   height: 2702px; 
@@ -1224,14 +1225,14 @@
   background: #8CD094;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Darriwilian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 229200px); 
   height: 4452px; 
@@ -1239,14 +1240,14 @@
   background: #74C69C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Dapingian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 233650px); 
   height: 1352px; 
@@ -1254,14 +1255,14 @@
   background: #66C092;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Floian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 235000px); 
   height: 3852px; 
@@ -1269,14 +1270,14 @@
   background: #41B087;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Tremadocian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 238850px); 
   height: 3852px; 
@@ -1284,14 +1285,14 @@
   background: #33A97E;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Stage-10 { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 242700px); 
   height: 2052px; 
@@ -1299,14 +1300,14 @@
   background: #E6F5C9;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Jiangshanian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 244750px); 
   height: 2252px; 
@@ -1314,14 +1315,14 @@
   background: #D9F0BB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Paibian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 247000px); 
   height: 1502px; 
@@ -1329,14 +1330,14 @@
   background: #CCEBAE;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Guzhangian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 248500px); 
   height: 1752px; 
@@ -1344,14 +1345,14 @@
   background: #CCDFAA;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Drumian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 250250px); 
   height: 2002px; 
@@ -1359,14 +1360,14 @@
   background: #BFD99D;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Wuliuan { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 252250px); 
   height: 2252px; 
@@ -1374,14 +1375,14 @@
   background: #B3D492;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Stage-4 { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 254500px); 
   height: 2502px; 
@@ -1389,14 +1390,14 @@
   background: #B3CA8E;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Stage-3 { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 257000px); 
   height: 3502px; 
@@ -1404,14 +1405,14 @@
   background: #A6C583;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Stage-2 { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 260500px); 
   height: 4002px; 
@@ -1419,14 +1420,14 @@
   background: #A6BA80;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
 
 .Fortunian { 
   position: absolute; 
+  margin: 0; 
   width: 10%; 
   top: calc(100vh + 264500px); 
   height: 4902px; 
@@ -1434,8 +1435,7 @@
   background: #99B575;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }

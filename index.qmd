@@ -42,7 +42,9 @@ backgroundcolor: "#100751"
 
 <div class="moon"></div>
 
-<div class="ocean"></div>
+<div class="ocean">
+
+</div>
 
 <div class="seafloor"></div>
 <div class="seafloor2"></div>
@@ -53,18 +55,11 @@ backgroundcolor: "#100751"
 
 <br>
 <h2>Ancient Oceans</h2>
-<h3>Scroll through geological time and explore Earth's past oceans</h3>
+<h3>Scroll through geological time and discover Earth's past oceans</h3>
 <br>
 <h4>Made by Lewis A. Jones</h4>  
 
 :::
-
-::: {.scroll-box .h1}  
-
-# Scroll &darr;&darr;&darr;
-
-:::  
-
 
 ::: {.Quaternary .h1}  
 
@@ -739,4 +734,4 @@ backgroundcolor: "#100751"
 
 <script src="script.js"></script>
 
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar" style="min-height: calc(10vh + 269400px);">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar" style="min-height: calc(269402px);">
