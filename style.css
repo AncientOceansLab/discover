@@ -32,21 +32,28 @@ h1 {
 }
 
 h2 {
-  display: block; /* Display as block element */
+  display: block;
+  position: relative;
+  align-items: center; /** Y-axis align **/
+  justify-content: center; /** X-axis align **/
   font-size: calc(100% + 4vw);
   padding: 0px; /* Add padding for better readability */
   text-align: center; /* Center text horizontally */
   margin: 0 auto; /* Center horizontally */
   text-decoration: none; /* Remove underline */
-  color: white; /* Text color */
+  color: yellow; /* Text color */
   border: 0px solid #ccc; /* Border */
 }
 
 h3 {
+  display: block;
+  position: relative;
+  align-items: center; /** Y-axis align **/
+  justify-content: center; /** X-axis align **/
+  text-align: center;
   display: block; /* Display as block element */
   font-size: calc(100% + 1vw);
   padding: 0px; /* Add padding for better readability */
-  text-align: center; /* Center text horizontally */
   margin: 0 auto; /* Center horizontally */
   text-decoration: none; /* Remove underline */
   color: white; /* Text color */
@@ -54,8 +61,11 @@ h3 {
 }
 
 h4 {
-  display: block; /* Display as block element */
-  font-size: calc(100% + 0.5vw);
+  display: block;
+  position: relative;
+  align-items: center; /** Y-axis align **/
+  justify-content: center; /** X-axis align **/
+  font-size: calc(100% + 1vw);
   padding: 0px; /* Add padding for better readability */
   text-align: center; /* Center text horizontally */
   margin: 0 auto; /* Center horizontally */
@@ -176,10 +186,10 @@ html {
 
 .moon {
   position: absolute;
-  top: 50px;
-  left: 100px;
-  width: 100px;
-  height: 100px;
+  top: 10%;
+  left: 10%;
+  width: 20vh;
+  height: 20vh;
   background: radial-gradient(circle at 30% 30%, #fdfcfb, #d1d1d1);
   border-radius: 50%;
   box-shadow: 0 0 30px #ffffff88;
@@ -354,13 +364,14 @@ html {
   position: absolute; 
   width: 10%; 
   top: 90vh; 
-  height: 200px; 
+  height: 100px; 
   color: black;  
   background: grey;  
   opacity: 1;  
   border: 2px solid black;  
+  align-content: center;
   text-align: center; 
-  font-size: 1vmin;  
+  font-size: 0.25vmin;  
 }
 
 /* stages */
@@ -374,8 +385,8 @@ html {
   background: #F9F97F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center; 
-  font-size: 1vh;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -389,8 +400,8 @@ html {
   background: #FFFFBF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -404,8 +415,8 @@ html {
   background: #FFFFB3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -419,8 +430,8 @@ html {
   background: #FFFF73;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -434,8 +445,8 @@ html {
   background: #FFFF66;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -449,8 +460,8 @@ html {
   background: #FFFF59;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -464,8 +475,8 @@ html {
   background: #FFFF4D;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -479,8 +490,8 @@ html {
   background: #FFFF41;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -494,8 +505,8 @@ html {
   background: #FFFF33;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -509,8 +520,8 @@ html {
   background: #FEE6AA;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -524,8 +535,8 @@ html {
   background: #FED99A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -539,8 +550,8 @@ html {
   background: #FDCDA1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -554,8 +565,8 @@ html {
   background: #FDC091;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -569,8 +580,8 @@ html {
   background: #FCB482;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -584,8 +595,8 @@ html {
   background: #FCA773;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -599,8 +610,8 @@ html {
   background: #FDBF6F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -614,8 +625,8 @@ html {
   background: #FEBF65;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -629,8 +640,8 @@ html {
   background: #FDB462;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -644,8 +655,8 @@ html {
   background: #F2FA8C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -659,8 +670,8 @@ html {
   background: #E6F47F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -674,8 +685,8 @@ html {
   background: #D9EF74;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -689,8 +700,8 @@ html {
   background: #CCE968;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -704,8 +715,8 @@ html {
   background: #BFE35D;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -719,8 +730,8 @@ html {
   background: #B3DE53;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -734,8 +745,8 @@ html {
   background: #CCEA97;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -749,8 +760,8 @@ html {
   background: #BFE48A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -764,8 +775,8 @@ html {
   background: #B3DF7F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -779,8 +790,8 @@ html {
   background: #A6D975;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -794,8 +805,8 @@ html {
   background: #99D36A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -809,8 +820,8 @@ html {
   background: #8CCD60;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -824,8 +835,8 @@ html {
   background: #D9F1F7;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -839,8 +850,8 @@ html {
   background: #CCECF4;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -854,8 +865,8 @@ html {
   background: #BFE7F1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -869,8 +880,8 @@ html {
   background: #BFE7E5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -884,8 +895,8 @@ html {
   background: #B3E2E3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -899,8 +910,8 @@ html {
   background: #A6DDE0;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -914,8 +925,8 @@ html {
   background: #9AD9DD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -929,8 +940,8 @@ html {
   background: #99CEE3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -944,8 +955,8 @@ html {
   background: #80C5DD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -959,8 +970,8 @@ html {
   background: #67BCD8;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -974,8 +985,8 @@ html {
   background: #4EB3D3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -989,8 +1000,8 @@ html {
   background: #E3B9DB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1004,8 +1015,8 @@ html {
   background: #D6AAD3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1019,8 +1030,8 @@ html {
   background: #C99BCB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1034,8 +1045,8 @@ html {
   background: #C983BF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1049,8 +1060,8 @@ html {
   background: #BC75B7;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1064,8 +1075,8 @@ html {
   background: #B051A5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1079,8 +1090,8 @@ html {
   background: #A4469F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1094,8 +1105,8 @@ html {
   background: #FCC0B2;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1109,8 +1120,8 @@ html {
   background: #FCB4A2;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1124,8 +1135,8 @@ html {
   background: #FB9A85;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1139,8 +1150,8 @@ html {
   background: #FB8D76;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1154,8 +1165,8 @@ html {
   background: #FB8069;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1169,8 +1180,8 @@ html {
   background: #E38776;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1184,8 +1195,8 @@ html {
   background: #E37B68;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1199,8 +1210,8 @@ html {
   background: #E36F5C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1214,8 +1225,8 @@ html {
   background: #E36350;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1229,8 +1240,8 @@ html {
   background: #CCD4C7;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1244,8 +1255,8 @@ html {
   background: #BFD0C5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1259,8 +1270,8 @@ html {
   background: #C7CBB9;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1274,8 +1285,8 @@ html {
   background: #99C2B5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1289,8 +1300,8 @@ html {
   background: #BFC26B;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1304,8 +1315,8 @@ html {
   background: #A6B96C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1319,8 +1330,8 @@ html {
   background: #8CB06C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1334,8 +1345,8 @@ html {
   background: #F2EDC5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1349,8 +1360,8 @@ html {
   background: #F2EDAD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1364,8 +1375,8 @@ html {
   background: #F1E185;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1379,8 +1390,8 @@ html {
   background: #F1D576;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1394,8 +1405,8 @@ html {
   background: #E5D075;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1409,8 +1420,8 @@ html {
   background: #E5C468;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1424,8 +1435,8 @@ html {
   background: #E5B75A;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1439,8 +1450,8 @@ html {
   background: #E6F5E1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1454,8 +1465,8 @@ html {
   background: #D9F0DF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1469,8 +1480,8 @@ html {
   background: #CCECDD;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1484,8 +1495,8 @@ html {
   background: #CCEBD1;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1499,8 +1510,8 @@ html {
   background: #BFE6C3;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1514,8 +1525,8 @@ html {
   background: #BFE6CF;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1529,8 +1540,8 @@ html {
   background: #B3E1C2;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1544,8 +1555,8 @@ html {
   background: #A6DCB5;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1559,8 +1570,8 @@ html {
   background: #A6DBAB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1574,8 +1585,8 @@ html {
   background: #99D69F;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1589,8 +1600,8 @@ html {
   background: #8CD094;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1604,8 +1615,8 @@ html {
   background: #74C69C;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1619,8 +1630,8 @@ html {
   background: #66C092;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1634,8 +1645,8 @@ html {
   background: #41B087;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1649,8 +1660,8 @@ html {
   background: #33A97E;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1664,8 +1675,8 @@ html {
   background: #E6F5C9;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1679,8 +1690,8 @@ html {
   background: #D9F0BB;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1694,8 +1705,8 @@ html {
   background: #CCEBAE;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1709,8 +1720,8 @@ html {
   background: #CCDFAA;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1724,8 +1735,8 @@ html {
   background: #BFD99D;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1739,8 +1750,8 @@ html {
   background: #B3D492;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1754,8 +1765,8 @@ html {
   background: #B3CA8E;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1769,8 +1780,8 @@ html {
   background: #A6C583;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1784,8 +1795,8 @@ html {
   background: #A6BA80;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }
@@ -1799,8 +1810,8 @@ html {
   background: #99B575;  
   opacity: 1;  
   border: 2px solid black;  
-  text-align: center;  
-  font-size: 1vmax;  
+  align-content: center;
+  font-size: 1vmin;  
   writing-mode: vertical-rl;  
   transform: rotate(-180deg);  
 }

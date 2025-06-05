@@ -42,12 +42,6 @@ backgroundcolor: "#100751"
 
 <div class="moon"></div>
 
-<br>
-<h2>Ancient Oceans</h2>
-<h3>Scroll through geological time and explore Earth's past oceans</h3>
-<br>
-<h4>Made by Lewis A. Jones</h4>  
-
 <div class="ocean"></div>
 
 <div class="seafloor"></div>
@@ -57,11 +51,17 @@ backgroundcolor: "#100751"
 
 <div id="scrollPosition">Scroll Position: 0</div>
 
+<br>
+<h2>Ancient Oceans</h2>
+<h3>Scroll through geological time and explore Earth's past oceans</h3>
+<br>
+<h4>Made by Lewis A. Jones</h4>  
+
 :::
 
 ::: {.scroll-box .h1}  
 
-# Start &darr;
+# Scroll &darr;&darr;&darr;
 
 :::  
 
