@@ -46,10 +46,14 @@ backgroundcolor: "#100751"
 
 </div>
 
-<div class="seafloor"></div>
+<div class="seafloor1"></div>
 <div class="seafloor2"></div>
 <div class="seafloor3"></div>
 <div class="seafloor4"></div>
+<div class="seafloor5"></div>
+<div class="seafloor6"></div>
+<div class="seafloor7"></div>
+<div class="seafloor8"></div>
 
 <div id="scrollPosition">Scroll Position: 0</div>
 
