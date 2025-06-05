@@ -3,25 +3,9 @@ project:
 
 website:
   title: Ancient Oceans
-  site-url: https://origins.palaeobiology.org
+  site-url: https://explore.ancientoceans.org
   description: "Scroll through Earth's Oceans"
-  image: "assets/earth.png"
-  favicon: "assets/favicon.png"
   search: false
-  open-graph:
-    image: "assets/earth.png"
-    image-width: 500
-    image-height: 500
-    locale: en-GB
-  twitter-card:
-    title: Ancient Oceans
-    description: "Scroll through Earth's Geological History"
-    image: "assets/earth.png"
-    image-width: 500
-    image-height: 500
-    card-style: summary_large_image
-    creator: "@LewisAlanJones"
-    site: "@LewisAlanJones"
   navbar:
     title: Ancient Oceans
     pinned: true
