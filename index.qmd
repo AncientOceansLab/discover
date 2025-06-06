@@ -1,5 +1,4 @@
 ---
-pagetitle: "Origins"
 open-graph: true
 twitter-card: true
 toc: false
