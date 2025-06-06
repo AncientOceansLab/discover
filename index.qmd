@@ -48,8 +48,6 @@ backgroundcolor: "#100751"
 
 <div class="seafloor"></div>
 
-<div id="scrollPosition">Scroll Position: 0</div>
-
 <br>
 <h2>Ancient Oceans</h2>
 <h3>Scroll through geological time and discover Earth's past oceans</h3>
@@ -63,7 +61,6 @@ backgroundcolor: "#100751"
 # Quaternary  
 
 :::  
-
 
 ::: {.Piacenzian .h1}  
 
@@ -98,6 +95,13 @@ backgroundcolor: "#100751"
 # Serravallian  
 
 :::  
+
+::: {.item1}
+
+![](img/test.svg)
+This is a test of text content
+
+:::
 
 
 ::: {.Langhian .h1}  
@@ -730,5 +734,7 @@ backgroundcolor: "#100751"
 ::: 
 
 <script src="script.js"></script>
+
+<div id="scrollPosition">Scroll Position: 0</div>
 
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar" style="min-height: calc(269402px);">

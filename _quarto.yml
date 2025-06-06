@@ -14,9 +14,6 @@ website:
     foreground: "white"
     background: "#201c2f"
     right:
-      - text: "Contribute"
-        href: "https://forms.gle/42fqXep3b8pf8KMk8"
-        target: "_blank"
       - text: "Inspiration"
         href: "https://neal.fun/deep-sea/"
         target: "_blank"
