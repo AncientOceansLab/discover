@@ -96,13 +96,6 @@ backgroundcolor: "#100751"
 
 :::  
 
-::: {.item1}
-
-![](img/test.svg)
-This is a test of text content
-
-:::
-
 
 ::: {.Langhian .h1}  
 
